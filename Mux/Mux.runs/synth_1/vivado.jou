@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:36:41 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Mon May 27 20:39:07 2019
+# Process ID: 11691
+# Current directory: /home/data/VHDL/FPGA_Nand2Tetris/Mux/Mux.runs/synth_1
+# Command line: vivado -log Mux.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Mux.tcl
+# Log file: /home/data/VHDL/FPGA_Nand2Tetris/Mux/Mux.runs/synth_1/Mux.vds
+# Journal file: /home/data/VHDL/FPGA_Nand2Tetris/Mux/Mux.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source Mux.tcl -notrace
